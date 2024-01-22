@@ -13,7 +13,7 @@ export default function cocoon() {
                 src={'/images/cocoon-logo.png'}
                 height={100}
                 width={400}
-                alt={"logo"}
+                alt={'logo'}
             />
 
             <h1>Cocoon</h1>
@@ -37,14 +37,14 @@ export default function cocoon() {
                 src={'/images/cocoon-app1.png'}
                 height={260}
                 width={550}
-                alt={"ss1"}
+                alt={'ss1'}
             />
 
             <Image
                 src={'/images/cocoon-mobile.png'}
                 height={260}
                 width={260}
-                alt={"ss2"}
+                alt={'ss2'}
             />
 
 
@@ -62,14 +62,14 @@ export default function cocoon() {
                 src={'/images/cocoon-app2.png'}
                 height={260}
                 width={550}
-                alt={"ss2"}
+                alt={'ss2'}
             />
 
             <Image
                 src={'/images/cocoon-app3.png'}
                 height={260}
                 width={550}
-                alt={"ss3"}
+                alt={'ss3'}
             />
 
             <h2>Design Journey</h2>
@@ -79,14 +79,14 @@ export default function cocoon() {
                 src={'/images/figma1.png'}
                 height={260}
                 width={550}
-                alt={"ss4"}
+                alt={'ss4'}
             />
 
             <Image
                 src={'/images/figma1.5.png'}
                 height={260}
                 width={110}
-                alt={"ss5"}
+                alt={'ss5'}
             />
             
 
@@ -101,28 +101,28 @@ export default function cocoon() {
                 src={'/images/figma2.png'}
                 height={260}
                 width={550}
-                alt={"ss6"}
+                alt={'ss6'}
             />
 
             <Image
                 src={'/images/figma3.png'}
                 height={260}
                 width={300}
-                alt={"ss7"}
+                alt={'ss7'}
             />
 
             <Image
                 src={'/images/figma4.png'}
                 height={260}
                 width={550}
-                alt={"ss8"}
+                alt={'ss8'}
             />
 
             <Image
                 src={'/images/figma5.png'}
                 height={260}
                 width={450}
-                alt={"ss9"}
+                alt={'ss9'}
             />
 
             <h2>Challenges</h2>
