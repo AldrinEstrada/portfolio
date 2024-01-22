@@ -24,6 +24,7 @@ export default function Home() {
           src={'/images/logo1.png'}
           height={400}
           width={400}
+          alt={"main-logo"}
         />
         <h1>Hello, I'm Aldrin</h1>
         <button onClick={handleButtonClick}>Projects</button>

@@ -20,6 +20,7 @@ export default function Projects() {
           src={'/images/cocoon-logo.png'}
           height={100}
           width={400}
+          alt={"logo1"}
         />
 
         <h3>Cocoon</h3>
@@ -36,6 +37,7 @@ export default function Projects() {
           src={'/images/cocoon-logo.png'}
           height={100}
           width={400}
+          alt={"logo2"}
         />
         <h3>Swindle</h3>
         <p>
@@ -50,6 +52,7 @@ export default function Projects() {
           src={'/images/cocoon-logo.png'}
           height={100}
           width={400}
+          alt={"logo3"}
         />
         <h3>TinyPaws</h3>
         <p>
